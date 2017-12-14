@@ -1,11 +1,4 @@
 <h1 align="center">
-
-[Call for testing: term2048](https://forum.snapcraft.io/t/call-for-testing-term2048/3174?u=jokinglove)
-
-</h1>
-
-
-<h1 align="center">
   <!--
   <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
   <br />
